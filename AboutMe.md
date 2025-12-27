@@ -42,12 +42,6 @@ I am a 2nd-year Software Engineering student at **Karadeniz Technical University
 
 ---
 
-### 📈 Activity & Stats
-![Avaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spaicyyy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spaicyyy&layout=compact&theme=radical)
-
----
-
 ### 📫 Reach Me At:
 * **LinkedIn:** [Avaz Gurbanlı](https://www.linkedin.com/in/avaz-qurbanov-a74034371/)
 * **Email:** [avaz.qurbanov2006@gmail.com](mailto:avaz.qurbanov2006@gmail.com)
