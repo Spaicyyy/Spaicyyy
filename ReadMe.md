@@ -43,7 +43,7 @@ I am a 2nd-year Software Engineering student at **Karadeniz Technical University
 ---
 
 ### 📫 Reach Me At:
-* **LinkedIn:** [Avaz Gurbanlı](https://www.linkedin.com/in/avaz-qurbanov-a74034371/)
+* **LinkedIn:** [Avaz Gurbanlı](https://www.linkedin.com/in/avaz-gurbanli-dev/)
 * **Email:** [avaz.qurbanov2006@gmail.com](mailto:avaz.qurbanov2006@gmail.com)
 * **Instagram:** [@avaz.qurbanov9](https://www.instagram.com/avaz.qurbanov9/)
 * **Facebook:** [avaz.qurbanov.581](https://www.facebook.com/avaz.qurbanov.581)
